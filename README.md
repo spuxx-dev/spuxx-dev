@@ -5,3 +5,4 @@ I'm a software developer and architect at Deutsche Bahn, the public railway comp
 In my spare time, I enjoy working with EmberJS (a great SPA framework!) and NestJS (a great backend framework!).
 
 Find me on 🐘 Mastrodon: [@spuxx@chaos.social](https://chaos.social/@spuxx)
+Or visit my 🚀 website: [spuxx.dev](https://spuxx.dev)
