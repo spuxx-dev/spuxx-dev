@@ -7,3 +7,5 @@ In my spare time, I enjoy working with EmberJS (a great SPA framework!) and Nest
 Find me on 🐘 Mastodon: [@spuxx@chaos.social](https://chaos.social/@spuxx)
 
 Or visit my 🚀 website: [spuxx.dev](https://spuxx.dev)
+
+You can [buy me a coffee!](https://www.buymeacoffee.com/spuxx) if you want. ☕
