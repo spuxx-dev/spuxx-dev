@@ -8,4 +8,4 @@ Find me on 🐘 Mastodon: [@spuxx@chaos.social](https://chaos.social/@spuxx)
 
 Or visit my 🚀 website: [spuxx.dev](https://spuxx.dev)
 
-You can [buy me a coffee!](https://www.buymeacoffee.com/spuxx) if you want. ☕
+You can [buy me a coffee](https://www.buymeacoffee.com/spuxx) if you want to. ☕
