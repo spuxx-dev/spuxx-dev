@@ -4,7 +4,7 @@ I'm a software developer and architect at Deutsche Bahn, the public railway comp
 
 In my spare time, I enjoy working with EmberJS (a great SPA framework!) and NestJS (a great backend framework!).
 
-Find me on Bluesky: [@spuxx.bsky.social]([https://chaos.social/@spuxx](https://bsky.app/profile/spuxx.bsky.social))
+Find me on Bluesky: [@spuxx.bsky.social](https://bsky.app/profile/spuxx.bsky.social)
 
 Or visit my website: [spuxx.dev](https://spuxx.dev)
 
